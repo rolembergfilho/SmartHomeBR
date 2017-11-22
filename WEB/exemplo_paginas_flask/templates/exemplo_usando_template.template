@@ -1,0 +1,6 @@
+<html>
+<b>HTML qualquer</b><br>
+
+Usando variavel que vem do flask: '{{variavel1}}' e '{{variavel2}}'
+
+</html>
