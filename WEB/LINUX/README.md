@@ -1,14 +1,23 @@
-## SmartHomeBR
+# Pagina Flask de exemplo
 
-Repositório, onde podemos colocar código-fonte, material, livros, issues tracks (problemas, melhorias, correções, etc..), wiki de como operar, wiki de documentação, etc...
+Exemplo de uma pagina simples em Flask. Leia os comentarios dentro do arquivo para entender melhor como funciona.
 
-## How to Use
+## Como rodar
+Basta executar o arquivo page.py:
 
-Para o exemplo de como rodar uma pagina em Flask, basta executar o arquivo page.py:
-
-$ python page.py
+```
+python page.py
+```
 
 Isso vai iniciar a pagina que voce consegue abrir no browser, no seguinte endereco:
 
+```
 http://[raspIPaddress]:5000
+```
+
+Se quiser deixar a pagina rodando em backgound mesmo após sair da shell:
+
+```
+nohup python page.py &
+```
 

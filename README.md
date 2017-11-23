@@ -1,14 +1,24 @@
-## SmartHomeBR
+# SmartHomeBR
+Repositório onde podemos colocar código-fonte, material, livros, issues tracks (problemas, melhorias, correções, etc..), wiki de como operar, wiki de documentação, etc...
 
-Repositório, onde podemos colocar código-fonte, material, livros, issues tracks (problemas, melhorias, correções, etc..), wiki de como operar, wiki de documentação, etc...
+## Pasta ARDUINO
 
-## How to Use
+Pasta para armazenar codigos fontes que tenham a ver com o Arduino ou seus derivados, como ESP8266
 
-Para o exemplo de como rodar uma pagina em Flask, basta executar o arquivo page.py:
+## Pasta Documentacao
 
-$ python page.py
+Pasta para armazenar documentos em geral
 
-Isso vai iniciar a pagina que voce consegue abrir no browser, no seguinte endereco:
+## Pasta RASPBERRY
 
-http://[raspIPaddress]:5000
+Para para armazenar tudo que tenha a ver com codigos que rodam no Raspberry Pi
+
+## Pasta SERVER
+
+Pasta para armazenar scripts, ou algo que tenha a ver com o servidor 
+
+## Pasta WEB
+
+Pasta para armazenar o codigo da pagina web.
+
 
